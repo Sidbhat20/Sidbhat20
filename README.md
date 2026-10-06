@@ -4,7 +4,7 @@
 
 I build AI tools, automations and production web apps that turn manual business workflows into fast, automated systems.
 
-📍 Dubai, UAE · 📧 siddharthbhat20@gmail.com · [LinkedIn](https://www.linkedin.com/in/siddharth-bhat-ba0362377/)
+📍 Dubai, UAE · 📧 siddharthbhat20@gmail.com · [LinkedIn](https://www.linkedin.com/in/siddharth-bhat-ba0362377/) · [ORCID](https://orcid.org/0009-0002-5769-7083)
 
 ---
 
